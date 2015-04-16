@@ -1,0 +1,147 @@
+body{
+	background-color: rgb(230,230,230);
+	font-family: "Open Sans", sans-serif;
+}
+.container{
+	width: 1000px;
+	padding: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	box-shadow: 0px 0px 4px -2px;
+	overflow: hidden;
+}
+#credits{
+	color: rgb(33,117,155);
+	font-size: 0.6em;
+	float: right;
+	width: inherit;
+	text-align: right;
+	margin-top: none;
+	padding-top: none;
+	margin-right: 20px;
+}
+.header-image{
+	background-image: url(img/banner.jpg);
+	height: 250px;
+	width: 960px;
+	margin-right: inherit;
+	margin-left: inherit;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 2px;
+	overflow: hidden;
+}
+.header-image p{
+	color: white;
+	font-size: 50px;
+	margin: 0px;
+	padding: 40px;
+	font-weight: 700;
+	text-shadow: 0px 0px 2px black;
+}
+.content{
+	margin: 20px 20px 0px 20px;
+	padding: 15px;
+	background-color: rgb(244,244,244);
+	color: rgb(50,50,50);
+	box-shadow: 0px 0px 4px -2px;
+	float: left;
+	width: 690px;
+	overflow: hidden;
+	font-weight: 300;
+}
+.content h1{
+	margin: 0px;
+}
+.content p{
+	font-weight: 300;
+	font-size: 1em;
+}
+#sidebar{
+	float: right;
+	width: 200px;
+	margin: 20px;
+	color: rgb(50,50,50);
+}
+.sidebar_header{
+	font-weight: 700;
+	padding: 5px 5px 20px 5px;
+}
+.sidebar_button_container{
+	box-shadow: 0px 0px 2px;
+}
+.sidebar_button{
+	padding: 8px;
+	border: 1px solid rgb(64,64,64);
+	border-bottom: none;
+	background-color: rgb(33,117,155);
+	color: white;
+	font-size: 0.9em;
+	font-weight: 300;
+}
+.sidebar_button:hover{
+	background-color: rgb(83,167,205);
+}
+.sidebar_button_link{
+	text-decoration: none;	
+}
+#sidebar_bottom_border{
+	border-bottom: 1px solid rgb(64,64,64);
+}
+#profile_photo{
+	width: 250px;
+	height: auto;
+	float: right;
+	margin: 0px 10px 20px 20px;
+	box-shadow: 0px 0px 2px;
+}
+h2{
+	font-size: 1em;
+	margin: none;
+	text-decoration: underline;
+	color: rgb(33,117,155);
+	margin-top: 2em;
+}
+h3{
+	font-size: 1em;
+	margin-bottom:0.2em;
+	font-weight: 600;
+}
+b{
+	font-weight: 600;
+}
+a{
+	text-decoration: none;
+	color: rgb(33,117,155);
+}
+.cv_link{
+	color: rgb(50,50,50);
+}
+.cv_link:hover{
+	color: rgb(33,117,155);
+	text-decoration: underline;
+}
+ul{
+	padding: 0px 0px 0px 20px;
+	margin: 0px;
+	list-style-type: circle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
