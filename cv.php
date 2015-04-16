@@ -33,6 +33,20 @@ Exchange Student, Austral Fall 2013
 </ul>
 
 <h2>EXPERIENCE</h2>
+<h3><a href="http://www.sparkfund.co/" class="cv_link" target="_blank">SparkFund:</a>     Washington, DC</h3>
+Business Operations Associate
+<ul>
+<li>Helped build an in-house financial underwriting process from the ground up</li>
+<li>Built a comprehensive lease pricing and fund investor distribution model</li>
+<li>Supervised back-end deal pricing process</li>
+<li>Integrated with tech team in creating a proprietary Fund Management Engine to automate payment processes</li>
+<li>Managed partner accounts</li>
+<li>Used Java and Salesforce Apex to create custom software integrations</li>
+<li>Built custom tooling to support account managers</li>
+<li>Conducted in-depth research on financial regulatory requirements for commercial lenders</li>
+<li>Supervised business and financial licensing processes</li>
+</ul>
+
 <h3><a href="http://www.generacionpoliticasur.org/" class="cv_link" target="_blank">Generaci&oacuten Pol&iacutetica Sur:</a>     Buenos Aires, Argentina</h3>
 Policy Research Intern (Austral Fall 2013)
 <ul>
