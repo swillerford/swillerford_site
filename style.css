@@ -16,12 +16,10 @@ body{
 #credits{
 	color: rgb(33,117,155);
 	font-size: 0.6em;
-	float: right;
+	float: left;
 	width: inherit;
 	text-align: right;
-	margin-top: none;
-	padding-top: none;
-	margin-right: 20px;
+	margin: 20px 0px 0px 20px;
 }
 .header-image{
 	background-image: url(img/banner.jpg);
